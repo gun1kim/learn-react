@@ -23,4 +23,3 @@ let empty = null;
 
 // 5. Undefined Type
 let none;
-console.log(none);
